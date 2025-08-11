@@ -1,5 +1,5 @@
 # Protein Sequence Design & Structure Prediction with EvoDiff + ColabFold
-This repository provides a Jupyter Notebook workflow for protein sequence design and structure prediction using EvoDiff and ColabFold, with support for AlphaFold models and interactive 3D structure visualization via Py3Dmol.
+This repository provides a Jupyter Notebook workflow for protein sequence design and structure prediction using EvoDiff and ColabFold, with support for AlphaFold models and interactive 3D structure visualization.
 
 ## 🚀 Features
 Environment Setup – Installs all required dependencies for EvoDiff, PyTorch Geometric, and ColabFold.
@@ -20,7 +20,7 @@ If running in Google Colab, dependencies will be installed automatically when ex
 
 ## 🧬 Usage
 Open the Notebook
-Launch with_structure.ipynb in Jupyter or Google Colab.
+Launch EvoDiff_AlphaFold.ipynb in Jupyter or Google Colab.
 
 Run the Setup Cells
 This installs EvoDiff, ColabFold, and visualization tools.
